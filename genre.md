@@ -9,6 +9,9 @@ filename: genres
 Select the country that you want to explore, find out the genres and the representative artists. 
 
 <html>
+  <p><a href="https://informartive-museum.github.io/project/warhol"><img src = "https://www.invaluable.com/blog/wp-content/uploads/2017/07/warhol-hero.jpg" alt="informartive-museum.github.io/project/warhol" width="300" height="198">
+</a></p>
+  
 <div class='tableauPlaceholder' id='viz1617699169466' style='position: relative'>
   <noscript>
     <a href='#'>
