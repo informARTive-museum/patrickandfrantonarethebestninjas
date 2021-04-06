@@ -19,7 +19,7 @@ filename: Artworks Timeline
 </a></p>
 
 <p><a href="https://informartive-museum.github.io/project/frida">
-<img src = "https://i.guim.co.uk/img/media/8d1483b028d86d43b7d17f01bd808d116df5555c/0_394_2251_1350/master/2251.jpg" alt="informartive-museum.github.io/project/frida" width="100" height="132">
+<img src = "https://www.lewisginter.org/wp-content/uploads/2019/08/04-Frida-in-Rocking-Chair-credit-Nikolas-Muray.jpg" alt="informartive-museum.github.io/project/frida" width="100" height="132">
 </a></p>
 
 
