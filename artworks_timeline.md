@@ -1,7 +1,7 @@
 ---
-title: artworks timeline
+title: Artworks Timeline
 layout: template
-filename: Artworks Timeline
+filename: artworks_timeline
 ---
 
 
