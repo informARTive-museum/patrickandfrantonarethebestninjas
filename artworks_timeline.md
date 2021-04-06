@@ -16,7 +16,7 @@ filename: Artworks Timeline
 <p>The image of each artist is a link to their timeline. Click on any artist of your interest.</p>
 
 
-<p><a href="https://informartive-museum.github.io/project/warhol"><img src = "https://www.invaluable.com/blog/wp-content/uploads/2017/07/warhol-hero.jpg" alt="informartive-museum.github.io/project/warhol" width="100" height="132">
+<p><a href="https://informartive-museum.github.io/project/warhol"><img src = "https://www.invaluable.com/blog/wp-content/uploads/2017/07/warhol-hero.jpg" alt="informartive-museum.github.io/project/warhol" width="500" height="132">
 </a></p>
 
 
