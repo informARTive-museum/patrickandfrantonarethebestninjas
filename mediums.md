@@ -8,8 +8,8 @@ filename: mediums
 
 Enter whatever art medium comes to mind in the search bar to the right to see how use of the art medium has evolved over the centuries. You can also see how different parts of the world have used the art medium at different periods of time or even at the same time!
 
-<html>
 <div class='tableauPlaceholder' id='viz1617674425842' style='position: relative'>
+  <html>
   <noscript>
     <a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ar&#47;art_medium_eda_v2&#47;Dashboard1&#47;1_rss.png' style='border: none' />
     </a>
@@ -29,6 +29,7 @@ Enter whatever art medium comes to mind in the search bar to the right to see ho
     <param name='language' value='en' />
     <param name='filter' value='publish=yes' />
   </object>
+  </html>
 </div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1617674425842');
@@ -37,4 +38,4 @@ Enter whatever art medium comes to mind in the search bar to the right to see ho
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-</html>
+
