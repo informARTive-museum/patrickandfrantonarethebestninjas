@@ -1,7 +1,7 @@
 ---
-title: Our Story
+title: Art Mediums
 layout: template
-filename: story
+filename: mediums
 --- 
 
 # Our Story
