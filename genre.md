@@ -9,7 +9,7 @@ filename: genres
 Select the country that you want to explore, find out the genres and the representative artists. 
 
 <html>
-  <p><a href="https://informartive-museum.github.io/project/warhol"><img src = "https://www.invaluable.com/blog/wp-content/uploads/2017/07/warhol-hero.jpg" alt="informartive-museum.github.io/project/warhol" width="300" height="198">
+  <p><img src = "https://storage.googleapis.com/kagglesdsdata/datasets/130081/310927/images/images/Andy_Warhol/Andy_Warhol_105.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20210406%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210406T092146Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=7729c5e22eac794fbaff9d63f34655744f2314bee8396434bfa30dd5ca71934cd5ad453cd598600f7a4aa8997afcc4654af1283fb1fe0232ef120d6a5df96c09fcd183df110b230f702f2dbb6f1256383d1d9425978aee71cd84a055eaf2315b914ac0d3fea8bfc28df84e9ecf38f24d2732ce6b2eadf4bb33f1cde2e9c2dea36aa34de11882ddb22c99b5ecc02beb380b2805655eaeb04c280403b1617cd30741457faa4e48b1fec8c249c33e3847d344483203105007a0a3b025eb41edae4fcdafee70d7fec9984740461c4c1a2b69b29549045cb44c9e2ef8b90dcc3069b3a0b559e69b5ce06115fcc5c9453bcdc3a1255e4312fbbc2810f6081543d40169"
 </a></p>
   
 <div class='tableauPlaceholder' id='viz1617699169466' style='position: relative'>
