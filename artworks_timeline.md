@@ -4,13 +4,13 @@ layout: template
 filename: artworks_timeline
 ---
 
-<!DOCTYPE html>
+
 
 
 <html>
 <body>
 
-<h2>An Artist's Work Over Timek</h2>
+<h2>An Artist's Work Over Time</h2>
 
 <p>The image of each artist is a link to their timeline. Click on any artist of your interest.</p>
 
