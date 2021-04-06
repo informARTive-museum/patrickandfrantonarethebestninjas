@@ -1,7 +1,7 @@
 ---
-title: How To
+title: Genres
 layout: template
-filename: howto
+filename: genres
 --- 
 
 # How to Create a Multi-page Website using Github Pages
