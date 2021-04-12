@@ -8,8 +8,7 @@ filename: about
 
 # Welcome
 {: style="text-align: center;"}
-
-## By Elizabeth Zhou, Hannah Choi, Pauline Yue, and Joshua Lin
+By Elizabeth Zhou, Hannah Choi, Pauline Yue, and Joshua Lin
 
 #### What is the InformARTive Museum?
 We invite you to experience the immersive virtual museum centered on the data that surrounds art! We are a group of UC Berkeley 5th Year MIDS students aiming to create an interactive and informative art museum as a treat for museum-goers during the pandemic. 
