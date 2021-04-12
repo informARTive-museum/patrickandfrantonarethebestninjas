@@ -30,26 +30,5 @@ filename: artworks_timeline
 </a></p>
 
 
-</style>
-</head>
-<body>
-<h1>Images Aligned Side by Side example</h1>
-<div class="alignRow">
-<div class="imageColumn">
-href="https://informartive-museum.github.io/project/warhol"><img src = "https://www.invaluable.com/blog/wp-content/uploads/2017/07/warhol-hero.jpg" alt="informartive-museum.github.io/project/warhol" width="300" height="198">
-</div>
-<div class="imageColumn">
-href="https://informartive-museum.github.io/project/frida"><img src = "https://www.lewisginter.org/wp-content/uploads/2019/08/04-Frida-in-Rocking-Chair-credit-Nikolas-Muray.jpg" alt="informartive-museum.github.io/project/frida" width="200" height="260">
-</div>
-<div class="imageColumn">
-<img src="https://i.picsum.photos/id/471/400/400.jpg" alt="Mountains" style="width:100%">
-</div>
-<div class="imageColumn">
-<img src="https://i.picsum.photos/id/271/400/400.jpg" alt="Snow" style="width:100%">
-</div>
-</div>>
-</body>
-</html>
-
 </body>
 </html>
