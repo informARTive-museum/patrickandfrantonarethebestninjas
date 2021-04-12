@@ -7,6 +7,7 @@ filename: about
 ![welcome_photo](http://res.cloudinary.com/simpleview/image/upload/v1570745187/clients/wichita-redesign/Visit_Wichita_Kansas_Wichita_Art_Museum_ab2f81d5-0500-4ccd-af3a-20835143dc89.jpg)
 
 # Welcome
+{: style="text-align: center;"}
 
 ## By Elizabeth Zhou, Hannah Choi, Pauline Yue, and Joshua Lin
 
