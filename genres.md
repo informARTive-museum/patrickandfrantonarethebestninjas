@@ -4,6 +4,8 @@ layout: template
 filename: genres
 --- 
 
+![genre1_photo](https://en.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/File:Jean-Baptiste_Greuze_Self_Portrait.jpg)
+
 # Art Genre Timeline and Representative Artists 
 
 Select the country that you want to explore, find out the genres and the representative artists. 
