@@ -5,17 +5,6 @@ filename: genres
 --- 
 <html>
 <head>
-<style>
- {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
 
 <div class="row">
   <div class="column">
