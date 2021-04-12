@@ -23,7 +23,7 @@ filename: artworks_timeline
 </a></p>
 <p> Hieronymus Bosch </p>
 
-<p><a href="https://informartive-museum.github.io/project/sisley"><img src="https://www.sartle.com/media/artist/alfred-sisley.jpg" alt="informartive-museum.github.io/project/sisley" width="250" height="330">
+<p><a href="https://informartive-museum.github.io/project/sisley"><img src="https://www.sartle.com/media/artist/alfred-sisley.jpg" alt="informartive-museum.github.io/project/sisley" width="250" height="360">
 </a></p>
 <p> Alfred Sisley </p>
 
