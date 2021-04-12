@@ -31,7 +31,7 @@ filename: artworks_timeline
 </a></p>
 <p> Alfred Sisley </p>
 
-<p><a href="https://informartive-museum.github.io/project/gauguin"><img src="https://sothebys-com.brightspotcdn.com/dims4/default/61040d5/2147483647/strip/true/crop/2310x1964+0+0/resize/1000x850!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2Fa8%2Fd1%2Fb1af3489423b9ca066d0323f4145%2Fgettyimages-640483675.jpg" alt="informartive-museum.github.io/project/gauguin" width="250" height="260">
+<p><a href="https://informartive-museum.github.io/project/gauguin"><img src="https://sothebys-com.brightspotcdn.com/dims4/default/61040d5/2147483647/strip/true/crop/2310x1964+0+0/resize/1000x850!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2Fa8%2Fd1%2Fb1af3489423b9ca066d0323f4145%2Fgettyimages-640483675.jpg" alt="informartive-museum.github.io/project/gauguin" width="260" height="260">
 </a></p>
 <p> Paul Gauguin </p>
 
