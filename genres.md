@@ -18,12 +18,7 @@ filename: genres
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+
 </style>
 </head>
 <body>
