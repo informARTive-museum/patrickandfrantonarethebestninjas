@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: template
-filename: a_index
+filename: about
 --- 
 
 # Welcome
