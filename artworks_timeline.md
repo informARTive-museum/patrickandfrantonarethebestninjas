@@ -31,6 +31,10 @@ filename: artworks_timeline
 </a></p>
 <p> Gustav Klimt </p>
 
+<p><a href="https://informartive-museum.github.io/project/renoir"><img src="https://static.educalingo.com/img/en/800/pierre-auguste-renoir.jpg" alt="informartive-museum.github.io/project/renoir" width="250" height="260">
+</a></p>
+<p> Pierre-Auguste Renoir </p>
+
 <p><a href="https://informartive-museum.github.io/project/rene"><img src="https://uploads5.wikiart.org/images/rene-magritte.jpg!Portrait.jpg" alt="informartive-museum.github.io/project/rene" width="250" height="400">
 </a></p>
 <p> Rene Magritte </p>
