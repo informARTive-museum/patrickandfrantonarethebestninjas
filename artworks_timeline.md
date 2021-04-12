@@ -24,9 +24,8 @@ filename: artworks_timeline
 </a></p>
 
 
-<p><a href="https://informartive-museum.github.io/project/klmit"><img src="https://www.gustav-klimt.com/images/klimt.jpg"" alt="informartive-museum.github.io/project/klmit" width="250" height="260">
+<p><a href="https://informartive-museum.github.io/project/caravaggio"><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY1NzMzNzE5MTI5MjA0NjU5/portrait-of-michelangelo-merisi-da-caravaggio-17th-century-found-in-the-collection-of-national-museum-of-western-art-tokyo-photo-by-fine-art-imagesheritage-imagesgetty-images.jpg" alt="informartive-museum.github.io/project/caravaggio" width="250" height="260">
 </a></p>
-
 
 
 
