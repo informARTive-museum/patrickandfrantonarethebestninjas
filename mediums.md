@@ -1,5 +1,5 @@
 ---
-title: Art Mediums
+title: Mediums
 layout: template
 filename: mediums
 --- 
