@@ -4,6 +4,8 @@ layout: template
 filename: about
 --- 
 
+![welcome_photo](https://www.pexels.com/photo/three-paintings-hanging-in-gallery-1674049/)
+
 # Welcome
 
 ## Created by Elizabeth Zhou, Hannah Choi, Pauline Yue, and Joshua Lin
