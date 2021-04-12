@@ -3,8 +3,6 @@ title: Genres
 layout: template
 filename: genres
 --- 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -17,11 +15,6 @@ filename: genres
   width: 33.33%;
   padding: 5px;
 }
-
-
-</style>
-</head>
-<body>
 
 
 <div class="row">
