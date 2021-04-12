@@ -21,7 +21,7 @@ filename: artworks_timeline
 <p><a href="https://informartive-museum.github.io/project/klimt"><img src="https://www.gustav-klimt.com/images/klimt.jpg" alt="informartive-museum.github.io/project/klimt" width="250" height="260">
 </a></p>
 
-<p><a href="https://informartive-museum.github.io/project/rene"><img src="https://uploads5.wikiart.org/images/rene-magritte.jpg!Portrait.jpg" alt="informartive-museum.github.io/project/rene" width="250" height="360">
+<p><a href="https://informartive-museum.github.io/project/rene"><img src="https://uploads5.wikiart.org/images/rene-magritte.jpg!Portrait.jpg" alt="informartive-museum.github.io/project/rene" width="250" height="400">
 </a></p>
 
 
