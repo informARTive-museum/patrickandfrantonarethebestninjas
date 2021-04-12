@@ -4,7 +4,7 @@ layout: template
 filename: about
 --- 
 
-![welcome_photo](https://www.pexels.com/photo/three-paintings-hanging-in-gallery-1674049/)
+![welcome_photo](http://res.cloudinary.com/simpleview/image/upload/v1570745187/clients/wichita-redesign/Visit_Wichita_Kansas_Wichita_Art_Museum_ab2f81d5-0500-4ccd-af3a-20835143dc89.jpg)
 
 # Welcome
 
