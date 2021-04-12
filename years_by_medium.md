@@ -1,5 +1,5 @@
 ---
-title: Years Taken To Create Each Artwork by Medium
+title: Time for Creation by Medium
 layout: template
 filename: years_by_medium
 ---
