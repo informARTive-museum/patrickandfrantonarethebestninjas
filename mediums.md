@@ -6,6 +6,8 @@ filename: mediums
 
 # Explore the Evolution of Art Mediums
 
+![art_medium_photo](http://www.richardbollinger.net/images/tools.jpg)
+
 Enter whatever art medium comes to mind in the search bar to the right to see how use of the art medium has evolved over the centuries. You can also see how different parts of the world have used the art medium at different periods of time or even at the same time!
 
 <html>
