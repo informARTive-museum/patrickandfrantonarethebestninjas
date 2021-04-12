@@ -27,7 +27,7 @@ filename: artworks_timeline
 </a></p>
 <p> Alfred Sisley </p>
 
-<p><a href="https://informartive-museum.github.io/project/goya"><img src="https://www.franciscogoya.com/images/goya-self-portrait.jpg" alt="informartive-museum.github.io/project/goya" width="250" height="330">
+<p><a href="https://informartive-museum.github.io/project/goya"><img src="https://www.franciscogoya.com/images/goya-self-portrait.jpg" alt="informartive-museum.github.io/project/goya" width="230" height="330">
 </a></p>
 <p> Francisco Goya </p>
 
