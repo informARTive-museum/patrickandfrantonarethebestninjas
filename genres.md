@@ -4,7 +4,48 @@ layout: template
 filename: genres
 --- 
 
-![genre1_photo](https://en.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/File:Jean-Baptiste_Greuze_Self_Portrait.jpg)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="https://www.claude-monet.com/images/paintings/impression-sunrise.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://cdn.britannica.com/70/43670-050-17E8BEC2/Raft-of-the-Medusa-canvas-Theodore-Gericault-1819.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://images.saymedia-content.com/.image/t_share/MTc0NjQ3MzI1OTQ3ODY0NDQy/20-greatest-paintings-of-modern-art.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
 
 # Art Genre Timeline and Representative Artists 
 
