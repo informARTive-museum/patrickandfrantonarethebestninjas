@@ -21,6 +21,9 @@ filename: artworks_timeline
 <p><a href="https://informartive-museum.github.io/project/klimt"><img src="https://www.gustav-klimt.com/images/klimt.jpg" alt="informartive-museum.github.io/project/klimt" width="250" height="260">
 </a></p>
 
+<p><a href="https://informartive-museum.github.io/project/rene"><img src="https://uploads5.wikiart.org/images/rene-magritte.jpg!Portrait.jpg" alt="informartive-museum.github.io/project/rene" width="250" height="260">
+</a></p>
+
 
 <p><a href="https://informartive-museum.github.io/project/frida"><img src = "https://www.lewisginter.org/wp-content/uploads/2019/08/04-Frida-in-Rocking-Chair-credit-Nikolas-Muray.jpg" alt="informartive-museum.github.io/project/frida" width="250" height="310">
 </a></p>
