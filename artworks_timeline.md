@@ -19,6 +19,10 @@ filename: artworks_timeline
 </a></p>
 <p> Caravaggio </p>
 
+<p><a href="https://informartive-museum.github.io/project/bosch"><img src="https://uploads8.wikiart.org/images/hieronymus-bosch.jpg!Portrait.jpg" alt="informartive-museum.github.io/project/bosch" width="250" height="330">
+</a></p>
+<p> Hieronymus Bosch </p>
+
 <p><a href="https://informartive-museum.github.io/project/sisley"><img src="https://www.sartle.com/media/artist/alfred-sisley.jpg" alt="informartive-museum.github.io/project/sisley" width="250" height="330">
 </a></p>
 <p> Alfred Sisley </p>
