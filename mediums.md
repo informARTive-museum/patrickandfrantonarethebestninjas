@@ -6,7 +6,7 @@ filename: mediums
 
 # Explore the Evolution of Art Mediums
 
-![art_medium_photo](http://www.richardbollinger.net/images/tools.jpg){: style="float:right; padding:16px"}
+![art museum](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,g_auto,h_500,q_50,w_1400/https://assets.simpleviewinc.com/simpleview/image/upload/crm/neworleans/192_1273_1265965e-5056-b365-abed267b4a0212f9.jpg)
 
 ## Art Mediums by the Region
 Here is a breakdown of art produced by world region categorized by mediums.   
@@ -46,9 +46,9 @@ _Note: Numbers shown are not perfect, since many artpieces come from unknown loc
 </html>
 
 ## Creation of Art over Time by Medium
-Enter whatever art medium comes to mind in the search bar to the right to see how use of the art medium has evolved over the centuries. You can also see how different parts of the world have used the art medium at different periods of time or even at the same time!
+![art_medium_photo](http://www.richardbollinger.net/images/tools.jpg){: style="float:right; padding:16px"}
 
-![art museum](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,g_auto,h_500,q_50,w_1400/https://assets.simpleviewinc.com/simpleview/image/upload/crm/neworleans/192_1273_1265965e-5056-b365-abed267b4a0212f9.jpg){: style="float:left; padding:16px"}
+Enter whatever art medium comes to mind in the search bar to the right to see how use of the art medium has evolved over the centuries. You can also see how different parts of the world have used the art medium at different periods of time or even at the same time!
 
 <html>
 <div class='tableauPlaceholder' id='viz1617681984284' style='position: relative'>
