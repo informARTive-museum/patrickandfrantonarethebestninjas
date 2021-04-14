@@ -5,8 +5,6 @@ filename: gift_donators
 ---
 
 
-<div class='tableauPlaceholder' id='viz1616980851868' style='position: relative'>
-<!DOCTYPE html>
 # Explore Different Art Contributors 
 
 Mouse over each bubble to see the names of each art contributor and how many artworks they donated to the museum. 
