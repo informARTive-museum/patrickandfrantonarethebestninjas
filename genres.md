@@ -7,9 +7,6 @@ filename: genres
 <head>
   
 <style>
-* {
-  box-sizing: border-box;
-}
 
 .column {
   float: left;
@@ -17,7 +14,6 @@ filename: genres
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
