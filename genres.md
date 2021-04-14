@@ -7,7 +7,6 @@ filename: genres
 <head>
   
 <style>
-
 .column {
   float: left;
   width: 33.33%;
