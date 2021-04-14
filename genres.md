@@ -18,11 +18,8 @@ filename: genres
   </div>
 </div>
 
-</body>
-</html>
 
-
-# Art Genre Timeline and Representative Artists 
+## Art Genre Timeline and Representative Artists 
 
 Select the country that you want to explore, find out the genres and the representative artists. 
 
