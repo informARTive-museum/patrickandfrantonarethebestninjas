@@ -1,5 +1,5 @@
 ---
-title: Mediums
+title: Mediums by Region
 layout: template
 filename: mediums
 --- 
