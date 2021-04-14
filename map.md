@@ -1,5 +1,5 @@
 ---
-title: Map of Top Artists and MET Artworks
+title: Map of Artists & Artworks
 layout: template
 filename: map
 ---
