@@ -15,7 +15,7 @@ By Elizabeth Zhou, Hannah Choi, Pauline Yue, and Joshua Lin
 We invite you to experience the immersive virtual museum centered on the data that surrounds art! We are a group of UC Berkeley 5th Year MIDS students aiming to create an interactive and informative art museum as a treat for museum-goers during the covid-19 pandemic. Feel free to browse through our different tabs to experience art through new perspectives.
 
 #### How can I use the InformARTive Museum?
-![Bumbass, black and white] "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bumbass%2C_black_and_white%2C_Metropolitan_Museum_of_Art.jpg/640px-Bumbass%2C_black_and_white%2C_Metropolitan_Museum_of_Art.jpg){: style="float:right; padding:16px" width="150" height="260"}
+![Bumbass, black and white] <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bumbass%2C_black_and_white%2C_Metropolitan_Museum_of_Art.jpg/640px-Bumbass%2C_black_and_white%2C_Metropolitan_Museum_of_Art.jpg>{: width="150" height="260" style="float:right; padding:16px"}
 Click our different tabs to explore the different 'art' visualizations we've created to experience art through new perspectives! Where did Frida Kahlo make her famous paintings? Where is gold most popularly used, and how long does it take to make an artwork using gold? When was the Impressionism period? So many questions to explore!
 
 #### Special Thanks
