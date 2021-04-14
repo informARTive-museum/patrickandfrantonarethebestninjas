@@ -6,7 +6,7 @@ filename: avg_years_by_medium
 
 # Exploration of average time taken to create each piece of art based on medium 
 
-Mouse over each box to see the average number of years taken to create each artwork categorized by medium. The average amount of time taken to create each piece corresponds to the size of the box. 
+Mouse over each box to see the average number of years taken to create each artwork categorized by medium. The average amount of time taken to create each piece corresponds to the size of the box. (*Disclaimer: some of the start and end dates of the artworks are unknown and were estimated, leading to numbers on the extremely low and high ends of the time spectrum) 
 
 
 <html>
