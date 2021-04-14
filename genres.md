@@ -7,9 +7,9 @@ filename: genres
 
 ## Art Genre Timeline and Representative Artists 
 
-![art genre](https://www.claude-monet.com/images/paintings/impression-sunrise.jpg)
+![art genre](https://assets.philamuseum.org/public/2019-02/Hero_2011-58-2.jpg)
 
-Select the country that you want to explore, find out the genres and the representative artists. 
+### Select the country that you want to explore, find out the genres and the representative artists. 
 
 <html>
   
