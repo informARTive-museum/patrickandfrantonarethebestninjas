@@ -9,7 +9,7 @@ filename: mediums
 ![art museum](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,g_auto,h_500,q_50,w_1400/https://assets.simpleviewinc.com/simpleview/image/upload/crm/neworleans/192_1273_1265965e-5056-b365-abed267b4a0212f9.jpg)
 
 ## Art Mediums by the Region
-Here is a breakdown of art produced by world region categorized by mediums.   
+Here is a breakdown of art produced by world region categorized by mediums. Hover over a square to see the specific number of artpieces per medium a region has produced.      
 
 _Note: Numbers shown are not perfect, since many artpieces come from unknown locations and have not been included in this heatmap._
 
