@@ -3,37 +3,11 @@ title: Genres
 layout: template
 filename: genres
 --- 
-<html>
-<head>
-  
-<style>
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-    <img src="https://www.claude-monet.com/images/paintings/impression-sunrise.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://cdn.britannica.com/70/43670-050-17E8BEC2/Raft-of-the-Medusa-canvas-Theodore-Gericault-1819.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.saymedia-content.com/.image/t_share/MTc0NjQ3MzI1OTQ3ODY0NDQy/20-greatest-paintings-of-modern-art.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
 
 
 ## Art Genre Timeline and Representative Artists 
+
+![art genre](https://www.claude-monet.com/images/paintings/impression-sunrise.jpg)
 
 Select the country that you want to explore, find out the genres and the representative artists. 
 
