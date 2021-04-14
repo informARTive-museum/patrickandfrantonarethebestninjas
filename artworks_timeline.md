@@ -1,5 +1,5 @@
 ---
-title: Artworks Timeline
+title: Art Timelines
 layout: template
 filename: artworks_timeline
 ---
