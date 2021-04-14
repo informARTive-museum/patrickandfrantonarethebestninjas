@@ -1,6 +1,9 @@
-
+---
+title: Art Contributors
+layout: template
 filename: gift_donators
 ---
+
 
 <div class='tableauPlaceholder' id='viz1616980851868' style='position: relative'>
 <!DOCTYPE html>
